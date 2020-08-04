@@ -1,0 +1,13 @@
+/*
+Tipos de datos en Javascript
+Object
+Number
+Boolean
+String
+Array
+Set
+Map
+Symbol
+undefined
+null
+*/
